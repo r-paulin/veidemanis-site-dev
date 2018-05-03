@@ -66,9 +66,10 @@ a {
 }
 
 .grid_mainfold {
-background-image: url(background.jpg);
+    background-image: url(background.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position: center right
 }
 
 .grid_secondfold {
